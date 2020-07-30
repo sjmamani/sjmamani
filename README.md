@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile 👋
 
-- 🔭 I’m currently working on [Grupo Assa](htttps://grupoassa.com)
+- 🔭 I’m currently working on [Grupo Assa](https://grupoassa.com)
 - 🌱 I’m currently learning Unity
 - 🤔 I’m looking for help with VR with Unity for Android Apps
 - 💬 Ask me about Angular and Flutter stuffs
