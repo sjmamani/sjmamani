@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter Web
 - 🤔 I’m looking for help with VR with Unity for Android Apps
 - 💬 Ask me about Angular and Flutter stuffs
-- 📫 How to reach me: [Twitter - @santiagojmamani](https://twitter.com/santiagojmamani)
+- 📫 How to reach me: [Twitter - @santiagojmamani](https://twitter.com/santiagojmamani) and [LinkedIn](https://www.linkedin.com/in/joaquin-santiago-mamani/)
 - 😄 Pronouns: He/His
 - ⚡ Programmers fun fact: The root is at the top of the tree
 
