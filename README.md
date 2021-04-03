@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile 👋
 
-- 🔭 I’m currently working on [IT Patagonia](https://www.itpatagonia.com/en/.com)
+- 🔭 I’m currently working on [IT Patagonia](https://www.itpatagonia.com/en)
 - 🌱 I’m currently learning Flutter Clean Architecture
 - 🤔 I’m looking for help with VR with Unity for Android Apps
 - 💬 Ask me about Angular and Flutter stuffs
