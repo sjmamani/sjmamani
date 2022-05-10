@@ -1,10 +1,10 @@
 ## Welcome to my GitHub profile 👋
 
-- 🔭 I’m currently working on [IT Patagonia](https://www.itpatagonia.com/en)
+- 🔭 I’m currently working on [Tandamos](https://www.tandamos.com)
 - 🌱 I’m currently learning Flutter Clean Architecture
 - 🤔 I’m looking for help with Riverpod as state management
 - 💬 Ask me about Flutter, Angular and Java Spring Boot stuffs
-- 📫 How to reach me: [Twitter - @santiagojmamani](https://twitter.com/santiagojmamani) and [LinkedIn](www.linkedin.com/in/santiago-mamani)
+- 📫 How to reach me: [Twitter - @santiagojmamani](https://twitter.com/_santiagomamani) and [LinkedIn](www.linkedin.com/in/santiago-mamani)
 - 😄 Pronouns: He/His
 - ⚡ Programmers fun fact: The root is at the top of the tree
 
